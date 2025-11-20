@@ -32,4 +32,4 @@ A comprehensive PHP class designed to simplify interactions with the Pressable R
 2.  Include the file where you need to use it, for example, in your theme's `functions.php` or your main plugin file:
 
 ```php
-require_once( __DIR__ . '/pressable-api-client.php' );
+require_once( __DIR__ . '/wp-pressable-api.php' );
